@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "OracleConnectionSample", "OracleConnection\OracleConnectionSample.vbproj", "{58A0DF0D-81C9-4E20-8F16-27937F4AF7C0}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SampleOrcConn", "SampleOrcConn\SampleOrcConn.vbproj", "{D3EC6483-A165-4629-BFC0-65E3B9D4D09B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{58A0DF0D-81C9-4E20-8F16-27937F4AF7C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{58A0DF0D-81C9-4E20-8F16-27937F4AF7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{58A0DF0D-81C9-4E20-8F16-27937F4AF7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{58A0DF0D-81C9-4E20-8F16-27937F4AF7C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3EC6483-A165-4629-BFC0-65E3B9D4D09B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3EC6483-A165-4629-BFC0-65E3B9D4D09B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3EC6483-A165-4629-BFC0-65E3B9D4D09B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3EC6483-A165-4629-BFC0-65E3B9D4D09B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -19,13 +19,7 @@ Public Class Form1
             If myDataTable.Rows.Count > 0 Then
                 MsgBox(myDataTable.Rows(0).Item("description").ToString)
             End If
-            ' Dim dr As OracleDataReader = cmd.ExecuteReader()
-            'dr.Read()
-            'If dr.HasRows Then
-            'Do While dr.Read
-            'MsgBox(dr.GetString(0))
-            'Loop
-            'End If
+            'We can create object for connection and object for Datatable which store the result
 
 
         Catch ex As Exception
