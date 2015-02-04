@@ -1,4 +1,0 @@
-C:\Users\sarindy-05007\Documents\GitHub\VBNetOracleConnection\OracleConnection\OracleConnection\bin\Debug\OracleConnection.exe.config
-C:\Users\sarindy-05007\Documents\GitHub\VBNetOracleConnection\OracleConnection\OracleConnection\obj\Debug\OracleConnection.exe
-C:\Users\sarindy-05007\Documents\GitHub\VBNetOracleConnection\OracleConnection\OracleConnection\obj\Debug\OracleConnection.xml
-C:\Users\sarindy-05007\Documents\GitHub\VBNetOracleConnection\OracleConnection\OracleConnection\obj\Debug\OracleConnection.pdb
