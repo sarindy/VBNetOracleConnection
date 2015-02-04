@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("OracleConnection")> 
+<Assembly: AssemblyTitle("SampleOrcConn")> 
 <Assembly: AssemblyDescription("")> 
 <Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("OracleConnection")> 
+<Assembly: AssemblyProduct("SampleOrcConn")> 
 <Assembly: AssemblyCopyright("Copyright ©  2015")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("946a393e-7b80-4489-b820-ba6e5fe4ff25")> 
+<Assembly: Guid("c61e32f9-80fb-495c-90cf-99f09119a532")> 
 
 ' Version information for an assembly consists of the following four values:
 '

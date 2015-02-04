@@ -64,9 +64,9 @@ Namespace My
     Friend Module MySettingsProperty
         
         <Global.System.ComponentModel.Design.HelpKeywordAttribute("My.Settings")>  _
-        Friend ReadOnly Property Settings() As Global.OracleConnection.My.MySettings
+        Friend ReadOnly Property Settings() As Global.SampleOrcConn.My.MySettings
             Get
-                Return Global.OracleConnection.My.MySettings.Default
+                Return Global.SampleOrcConn.My.MySettings.Default
             End Get
         End Property
     End Module

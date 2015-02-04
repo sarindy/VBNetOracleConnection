@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.OracleConnection.MainFrm
+            Me.MainForm = Global.SampleOrcConn.Form1
         End Sub
     End Class
 End Namespace
